@@ -2,7 +2,7 @@
 HopeGive - Donation Management System (desktop app)
 
 How to run:   python donor_app.py
-Keep this file in the same folder as project4.py (it uses all the logic from there).
+Keep this file in the same folder as donor.py (it uses all the logic from there).
 Only Python's built-in tkinter is used - nothing to install.
 
 Logins (from project4.py):
