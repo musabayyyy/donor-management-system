@@ -113,8 +113,3 @@ The desktop interface imports the backend from `donor.py`. The console interface
 - Excel or PDF exports
 - Registration and account-specific record access
 
-## Credits
-
-- Backend and core logic: Musab Mehmood
-- Desktop UI/UX: developed with AI assistance
-- Bug fixes and input-validation improvements: developed with AI assistance
